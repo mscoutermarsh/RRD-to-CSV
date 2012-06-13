@@ -1,4 +1,5 @@
 blib/
+*.rrd
 .build/
 _build/
 cover_db/
