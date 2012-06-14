@@ -3,6 +3,8 @@ RRD-to-CSV
 
 Quick and dirty Perl scripts to convert RRD data to CSV.
 
+Useful if you need to get some RRD data into excel for analysis.
+
 Must have RRDtool installed.
 
 massRRDDump.pl
