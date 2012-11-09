@@ -1,3 +1,5 @@
+# USAGE: perl massXMLConvert.pl
+# Uses convert.pl to convert each XML file in the current directory to .csv
 @files = <*>;
  foreach $file (@files) {
  	if($file =~ m/\.xml/){

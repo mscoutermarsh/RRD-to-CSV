@@ -1,7 +1,7 @@
 RRD-to-CSV
 ==========
 
-Quick and dirty Perl scripts to convert RRD data to CSV.
+Quick and dirty Perl scripts that I use when dealing with RRD data.
 
 Useful if you need to get some RRD data into excel for analysis.
 

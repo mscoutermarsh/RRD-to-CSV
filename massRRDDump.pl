@@ -1,3 +1,6 @@
+# USAGE: perl massRRDDump.pl
+# Runs rrdtool dump on each .rrd file in the current directory.
+
 @files = <*>;
  foreach $file (@files) {
  	if($file =~ m/\.rrd/){
