@@ -26,3 +26,7 @@ USAGE: perl convert.pl
 Grabs all of the daily average data, converts to CSV.
 
 USAGE: perl convert.pl testinput.xml > output.csv
+
+## Help
+
+Tweet: [@mscccc](https://twitter.com/mscccc)
